@@ -1,0 +1,77 @@
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMChatLieu.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMHangHoa.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMKhachHang.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMNhanVien.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmHoaDonBan.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMainEdit.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmTimHDBan.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Công Nghệ.Net\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMChatLieu.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMHangHoa.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMKhachHang.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMNhanVien.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmHoaDonBan.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMainEdit.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmTimHDBan.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\AD\Downloads\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMThuongHieu.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMHangHoa.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMKhachHang.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMNhanVien.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmHoaDonBan.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMainEdit.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmTimHDBan.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMThuongHieu.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMHangHoa.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMKhachHang.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmDMNhanVien.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmHoaDonBan.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmMainEdit.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.frmTimHDBan.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csprojResolveAssemblyReference.cache
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.QuanLyCuaHang.exe.config
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Form1.resources
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\RdlCompile.cache
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\RdlCompile.compiled
+C:\Users\AD\Desktop\QuanLyCuaHang\QuanLyCuaHang\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Form2.resources
